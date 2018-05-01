@@ -1,0 +1,11 @@
+id,marriage,age,income,WantHouse
+1,married,teenage,low,y
+2,married,middle age,high,N
+3,single,middle age,high,N
+4,single,teenage,high,y
+5,married,middle age,middle,y
+6,single,middle age,low,y
+7,single,teenage,high,N
+8,married,teenage,high,N
+9,married,middle age,high,y
+10,married,teenage,high,y
